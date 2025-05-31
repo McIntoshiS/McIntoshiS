@@ -9,7 +9,9 @@
 
 ---
 
-![Quantum Banner](https://github.com/McIntoshiS/McIntoshiS/blob/33744499f88d679d3129ee002a42d7387ad992ee/intro.gif)
+<div align="center">
+  <img src="https://github.com/McIntoshiS/McIntoshiS/blob/33744499f88d679d3129ee002a42d7387ad992ee/intro.gif" />
+</div>
 
 ## 🧬 WHO AM I?
 
