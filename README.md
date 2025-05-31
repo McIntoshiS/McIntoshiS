@@ -9,7 +9,7 @@
 
 ---
 
-![Quantum Banner](https://raw.githubusercontent.com/mcintosh-labs/media/main/banner-cosmic.gif)
+![Quantum Banner](https://github.com/McIntoshiS/McIntoshiS/blob/73defd3fa5aa18a9a9da954582c7136fd2f9455e/intro.gif)
 
 ## 🧬 WHO AM I?
 
