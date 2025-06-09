@@ -51,9 +51,9 @@ I'm <strong>MΞC!ИT0$H!</strong>, a glitch-born dev architecting reality-resist
 
 ## 🔌 J01N THΞ C0DΞ MΞRGΞ
 
-- 🌐 [`McIntoshidApp`](https://web3.mcintosh.xyz) *(syncing soon)*
+- 🌐 [`McIntoshidApp`](https://web3.mcintoshi.xyz) *(syncing soon)*
 - 🐦 [`@SMcintoshi`](https://x.com/SMcintoshi)
-- 🌍 [`Website`](https://mcintosh.xyz)
+- 🌍 [`Website`](https://mcintoshi.xyz)
 - 🧪 [`/McIntoshiS`](https://github.com/McIntoshiS)
 
 ---
