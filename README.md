@@ -3,7 +3,7 @@
 <h1><code><span style="font-family:monospace; font-size: 2.5rem; animation: glitch 1s infinite; color: #0ff;">🧠 MΞC!ИT0$H! ⛓️</span></code></h1>
 
 <p><strong>⚡ Quantum Architect • ⌬ Crypto Alchemist • 💾 Enterprise Hacker</strong></p>
-<p><em>⤷ HΞΛDLINΞ: ⚠️ Rewiring Web3 with Glitched Elegance & DeFi Precision ⚠️</em></p>
+<p><em>⤷ HΞΛDLINΞ: ⚠️ Wiring Web3 with Glitched Elegance & DeFi Precision ⚠️</em></p>
 
 </div>
 
