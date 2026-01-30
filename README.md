@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/McIntoshiS/McIntoshiS/blob/33744499f88d679d3129ee002a42d7387ad992ee/1200x400McIntoshi.gif" />
+  <img src="[https://github.com/McIntoshiS/McIntoshiS/blob/33744499f88d679d3129ee002a42d7387ad992ee/1200x400McIntoshi.gif](https://github.com/McIntoshiS/McIntoshiS/blob/main/1200x400McIntoshi.gif)" />
 </div>
 
 ## 🧬 WHO AM I?
