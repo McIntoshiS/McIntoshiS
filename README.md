@@ -44,8 +44,26 @@ I'm <strong>MΞC!ИT0$H!</strong>, a glitch-born dev architecting reality-resist
 
 ## 📊 TΞRM1NAL STATΞ
 
-![MCINTOSHI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=McIntoshiS&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McIntoshiS&layout=compact&theme=tokyonight)
+<div align="center">
+
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=McIntoshiS&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### 📈 GitHub Analytics
+![MCINTOSHI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=McIntoshiS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McIntoshiS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=McIntoshiS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+### 📊 Contribution Graph
+[![McIntoshiS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=McIntoshiS&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 👁️ Profile Views
+![](https://komarev.com/ghpvc/?username=McIntoshiS&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
