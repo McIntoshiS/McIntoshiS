@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/McIntoshiS/McIntoshiS/blob/0ab1e361780636134cc241bc545e543f1b12d82f/1200x400McIntoshi.gif" alt="MCINTOSHI Start" onclick="window.open('https://mcintoshi.xyz', '_blank');"/>
+  <img src="https://github.com/McIntoshiS/McIntoshiS/blob/0ab1e361780636134cc241bc545e543f1b12d82f/1200x400McIntoshi.gif" alt="MCINTOSHI Start" onclick="window.open('https://mcintoshi.xyz', '_blank');">
 </div>
 
 ## 🧬 WHO AM I?
