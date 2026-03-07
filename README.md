@@ -9,8 +9,10 @@
 
 ---
 
+<img src="https://github.com/McIntoshiS/McIntoshiS/blob/0ab1e361780636134cc241bc545e543f1b12d82f/1200x400McIntoshi.gif" alt="Example Image" onclick="window.open('https://example.com', '_blank');">
+
 <div align="center">
-  <img src="https://github.com/McIntoshiS/McIntoshiS/blob/0ab1e361780636134cc241bc545e543f1b12d82f/1200x400McIntoshi.gif" />
+  <img src="https://github.com/McIntoshiS/McIntoshiS/blob/0ab1e361780636134cc241bc545e543f1b12d82f/1200x400McIntoshi.gif" alt="MCINTOSHI Start" onclick="window.open('https://mcintoshi.xyz', '_blank');"/>
 </div>
 
 ## 🧬 WHO AM I?
